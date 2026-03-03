@@ -69,6 +69,12 @@ I am a B.Tech CSE (AI & ML) student passionate about building scalable and intel
 
 ## 📌 Featured Projects
 
+### 🚀 Path Finder – AI-Driven Career Recommendation Platform
+
+Engineered a full-stack web application enabling users to manage profiles, set career goals, book counseling sessions, and explore job opportunities.
+
+---
+
 ### 🧴 SkinHealth AI
 
 AI-powered skin disease detection web application built with React (TypeScript) and Python ML model.
