@@ -6,12 +6,12 @@
 
 <p align="center">
 <b>Software Developer | Machine Learning Engineer</b><br/>
-Building Scalable and AI-Powered Applications
+Building full-stack applications with AI-driven features and real-world impact.
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am a B.Tech Computer Science student specializing in Artificial Intelligence and Machine Learning, with a strong focus on developing scalable software applications and integrating intelligent systems into real-world solutions.
 
