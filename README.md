@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <span style="color:#8A2BE2;"><b>Yasaswini Reddy</b></span></h1>
+<h1 align="center"><span style="color:#8A2BE2;"><b>Yasaswini Reddy</b></span></h1>
 
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/6997/6997662.png" width="180"/>
